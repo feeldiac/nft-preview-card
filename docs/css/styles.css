@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+}
+
+/* Colors */
+
+:root {
+    --clr-soft-blue: hsl(215, 51%, 70%);
+    --clr-cyan: hsl(178, 100%, 50%);
+    --clr-dark-blue-main-bg: hsl(217, 54%, 11%);
+    --clr-dark-blue-card-bg: hsl(216, 50%, 16%);
+    --clr-dark-blue-line: hsl(215, 32%, 27%);
+    --clr-white: hsl(0, 0%, 100%);
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+a, a:visited {
+    text-decoration: none;
+}
